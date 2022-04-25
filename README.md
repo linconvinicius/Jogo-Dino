@@ -8,7 +8,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript.
 
 <div align="left">
 
-  <a href="https://linconvinicius.github.io/Dino-Game/" width="100px" align-items="center">Clique aqui para jogar!</a>
+  <a href="https://linconvinicius.github.io/Jogo-Dino/" width="100px" align-items="center">Clique aqui para jogar!</a>
 </div>
 
 
